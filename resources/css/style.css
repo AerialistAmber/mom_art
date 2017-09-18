@@ -1,0 +1,28 @@
+
+
+
+body {
+  background-color: whitesmoke;
+  font-family: tahoma;
+}
+
+.background {
+  background-image: url("https://media.giphy.com/media/bD4CghsRcxtF6/source.gif");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 73px;
+  color: slategray;
+}
+
+h2 {
+  text-align: center;
+  font-size: 45px;
+  font-weight: lighter;
+  color: slategray;
+}
