@@ -13,16 +13,13 @@ h1 {
   font-weight: bold;
   font-size: 45px;
   color: black;
-  padding-left: 20px;
+  text-align: center;
   padding-top: 20px;
   font-family:'Lobster Two', cursive;
 }
 
-h3 {
+h2 {
   text-align: center;
-  color: black;
-  font-weight: normal;
-  font-size: 22px;
 }
 
 .bird {
@@ -32,18 +29,24 @@ h3 {
 p {
   text-align: center;
   font-size:30px;
+  font-family:'Poiret One', cursive;
+}
+
+button {
+  text-align: center;
 }
 
 .button {
-  font-size: 30px;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Poiret One', cursive;
   background-color: darkcyan;
   border: none;
   color: white;
-  padding: 15px 68px;
-  text-align: center;
+  padding: 15px 75px;
   text-decoration: none;
+  text-align: center;
   display: inline-block;
-  font-size: 16px;
   transition-duration: 0.4s;
   -webkit-transition-duration: 0.4s; /* Safari */
   cursor: pointer;
