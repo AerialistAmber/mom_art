@@ -24,6 +24,10 @@ h3 {
   font-size: 22px;
 }
 
+.bird {
+  text-align: center;
+}
+
 p {
   text-align: center;
   font-size:30px;
@@ -45,31 +49,56 @@ p {
 }
 
 .button1 {
-  background-color:
+    background-color: white;
+    color: darkcyan;
+    border: 2px solid darkcyan;
 }
 
-
-
-.shop {
-  font-size: 30px;
-  background-color: darkcyan;
-  border: none;
-  color: white;
-  padding: 15px 76px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
+.button1:hover {
+    background-color: darkcyan;
+    color: white
 }
 
-.shows {
-  font-size: 30px;
+.button2 {
+  background-color: white;
+  color: darkcyan;
+  border: 2px solid darkcyan;
+}
+
+.button2:hover {
   background-color: darkcyan;
-  border: none;
   color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
+}
+
+.button3 {
+  background-color: white;
+  color: darkcyan;
+  border:2px solid darkcyan;
+}
+
+.button3:hover {
+  background-color: darkcyan;
+  color:white;
+}
+
+.button4 {
+  background-color: white;
+  color: darkcyan;
+  border:2px solid darkcyan;
+}
+
+.button4:hover {
+  background-color: darkcyan;
+  color:white;
+}
+
+.button5 {
+  background-color: white;
+  color: darkcyan;
+  border:2px solid darkcyan;
+}
+
+.button5:hover {
+  background-color: darkcyan;
+  color:white;
 }
