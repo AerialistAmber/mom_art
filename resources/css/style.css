@@ -11,10 +11,11 @@ body {
 
 h1 {
   font-weight: bold;
-  font-size: 40px;
+  font-size: 45px;
   color: black;
   padding-left: 20px;
   padding-top: 20px;
+  font-family:'Lobster Two', cursive;
 }
 
 h3 {
